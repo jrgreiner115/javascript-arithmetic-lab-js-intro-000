@@ -17,5 +17,5 @@ function dec(n) {
   return --n 
 }
 function makeInt(n) {
-  parseInt("n")
+  return parseInt(n)
 }
